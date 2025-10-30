@@ -273,7 +273,7 @@ img.right {
     float: none;
     width: auto;
     clear: both;
-    border-top: 2px solid black;
+    border-top: 2px solid orange;
     padding-top: 10px;
   }
   .columnWrapper {
